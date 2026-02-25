@@ -5,7 +5,7 @@ import time
 import copy
 
 # --- CONFIGURATION ---
-st.set_page_config(page_title="UNR Med Block 3 Midterm Review", layout="wide")
+st.set_page_config(page_title="UNR Med Block 3 Final Review", layout="wide")
 
 # --- LOAD DATA ---
 @st.cache_data
