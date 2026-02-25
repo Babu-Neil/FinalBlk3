@@ -116,7 +116,7 @@ else:
                 st.sidebar.progress(accuracy / 100)
 
 # --- MAIN INTERFACE ---
-st.title("Block 3 Midterm Review")
+st.title("Block 3 Final Review")
 
 if not st.session_state.quiz_data:
     st.warning("No questions available for this selection. Make sure midtermblk3.json is loaded correctly.")
