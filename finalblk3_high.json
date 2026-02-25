@@ -1,0 +1,1416 @@
+[
+    {
+        "id": 1,
+        "faculty": "Carl Sievert",
+        "session": "B3: Anat - Anterior Abdominal Wall and Hernias",
+        "question": "During a surgical repair of a direct inguinal hernia, the surgeon observes the herniating sac protruding through Hesselbach's triangle. Which of the following describes the lateral border of this anatomical triangle?",
+        "options": [
+            "Inferior epigastric vessels",
+            "Lateral rectus abdominis edge",
+            "Inguinal ligament of Poupart",
+            "Conjoint tendon aponeurosis"
+        ],
+        "correct_answer": "Inferior epigastric vessels",
+        "explanation": "Hesselbach's (inguinal) triangle is bordered medially by the lateral edge of the rectus abdominis, inferiorly by the inguinal ligament, and laterally by the inferior epigastric vessels. Direct hernias push through the floor of this triangle."
+    },
+    {
+        "id": 2,
+        "faculty": "Carl Sievert",
+        "session": "B3: Anat - Anterior Abdominal Wall and Hernias",
+        "question": "A patient presents with a hematoma within the rectus sheath. The bleeding is located inferior to the arcuate line. At this specific level, the posterior layer of the rectus sheath is composed of which of the following structures?",
+        "options": [
+            "Transversalis fascia only",
+            "External oblique aponeurosis",
+            "Internal oblique aponeurosis",
+            "Transversus abdominis muscle"
+        ],
+        "correct_answer": "Transversalis fascia only",
+        "explanation": "Below the arcuate line, all three aponeuroses (external oblique, internal oblique, and transversus abdominis) pass completely anterior to the rectus abdominis muscle. This leaves only the thin transversalis fascia to form the posterior wall."
+    },
+    {
+        "id": 3,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo-Oral Cavity And Esophagus",
+        "question": "A patient with chronic gastroesophageal reflux disease (GERD) undergoes an endoscopy. Biopsies of the lower esophagus reveal intestinal metaplasia. The normal epithelium of the distal esophagus, prior to this metaplastic change, is typically:",
+        "options": [
+            "Stratified squamous epithelium",
+            "Simple columnar mucous cells",
+            "Pseudostratified ciliated cells",
+            "Stratified cuboidal structures"
+        ],
+        "correct_answer": "Stratified squamous epithelium",
+        "explanation": "The normal esophageal mucosa is lined by non-keratinized stratified squamous epithelium to withstand friction. In Barrett's esophagus, chronic acid exposure causes it to metaplase into a protective simple columnar epithelium with goblet cells."
+    },
+    {
+        "id": 4,
+        "faculty": "Gillian Moritz",
+        "session": "B3: Anat-GI Embryology",
+        "question": "During the 6th week of embryonic development, the rapidly growing midgut loop normally herniates through the umbilical ring into the extraembryonic coelom. During this normal physiological herniation, the midgut undergoes an initial rotation of:",
+        "options": [
+            "090 degrees counterclockwise",
+            "180 degrees counterclockwise",
+            "270 degrees counterclockwise",
+            "360 degrees counterclockwise"
+        ],
+        "correct_answer": "090 degrees counterclockwise",
+        "explanation": "The midgut loop rotates a total of 270 degrees counterclockwise around the Superior Mesenteric Artery. The first 90 degrees occurs during the initial herniation outward, and the remaining 180 degrees occurs as the intestines return to the abdominal cavity."
+    },
+    {
+        "id": 5,
+        "faculty": "Gillian Moritz",
+        "session": "B3: Anat-GI Embryology",
+        "question": "A newborn presents with intestines protruding through an abdominal wall defect located immediately to the right of the umbilicus. The herniated bowel loops are not covered by any membrane. This congenital defect is most likely identified as:",
+        "options": [
+            "Gastroschisis abdominal defect",
+            "Omphalocele sac malformation",
+            "Congenital umbilical herniation",
+            "Persistent Meckel diverticulum"
+        ],
+        "correct_answer": "Gastroschisis abdominal defect",
+        "explanation": "Gastroschisis occurs due to a lateral fold closure defect, usually on the right, allowing intestines to eviscerate without a covering membrane. In contrast, an omphalocele herniates directly through the umbilicus and is covered by peritoneum and amnion."
+    },
+    {
+        "id": 6,
+        "faculty": "Cherie Singer",
+        "session": "B3: (REQUIRED) Carbohydrates Part 1",
+        "question": "A patient with Hereditary Fructose Intolerance must strictly avoid dietary fructose. The severe hypoglycemia and liver damage seen in this condition are primarily caused by the intracellular accumulation of which of the following metabolites?",
+        "options": [
+            "Fructose-1-phosphate",
+            "Fructose-6-phosphate",
+            "Glucose-6-phosphate",
+            "Galactose-1-phosphate"
+        ],
+        "correct_answer": "Fructose-1-phosphate",
+        "explanation": "HFI is caused by a deficiency in Aldolase B. Fructokinase still converts fructose to Fructose-1-Phosphate, which then accumulates, trapping intracellular inorganic phosphate. This severely inhibits both glycogenolysis and gluconeogenesis, leading to hypoglycemia."
+    },
+    {
+        "id": 7,
+        "faculty": "Frieda Hulka",
+        "session": "B3: Anat-Abdominal Blood Supply",
+        "question": "A patient suffering from severe portal hypertension secondary to liver cirrhosis presents with acute upper gastrointestinal bleeding from esophageal varices. These varices represent an important portocaval anastomosis between the azygos vein system and the:",
+        "options": [
+            "Left gastric vein system",
+            "Short gastric vein system",
+            "Right gastric vein system",
+            "Splenic venous drainage"
+        ],
+        "correct_answer": "Left gastric vein system",
+        "explanation": "The lower esophageal veins (draining into the systemic Azygos vein) anastomose with the esophageal branches of the Left Gastric vein (draining into the Portal vein). Portal hypertension forces blood backwards through this connection, causing varices."
+    },
+    {
+        "id": 8,
+        "faculty": "Frieda Hulka",
+        "session": "B3: Anat-Abdominal Blood Supply",
+        "question": "A penetrating peptic ulcer on the posterior wall of the first part of the duodenum causes massive hemorrhage. Which of the following major arteries is positioned directly posterior to this duodenal segment and is most likely ruptured?",
+        "options": [
+            "Gastroduodenal artery branch",
+            "Superior mesenteric trunk",
+            "Left gastroepiploic artery",
+            "Common hepatic main branch"
+        ],
+        "correct_answer": "Gastroduodenal artery branch",
+        "explanation": "The gastroduodenal artery, a branch of the common hepatic artery, descends immediately behind the first (superior) part of the duodenum. It is uniquely vulnerable to erosion by posterior duodenal ulcers."
+    },
+    {
+        "id": 9,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo Stomach",
+        "question": "A patient is diagnosed with pernicious anemia due to a deficiency in intrinsic factor. Which specific cells in the gastric oxyntic glands are responsible for the synthesis and secretion of both hydrochloric acid (HCl) and intrinsic factor?",
+        "options": [
+            "Parietal cells of the isthmus",
+            "Chief cells of the gland base",
+            "Mucous neck cells of the pit",
+            "Enteroendocrine G-cells area"
+        ],
+        "correct_answer": "Parietal cells of the isthmus",
+        "explanation": "Parietal (oxyntic) cells secrete gastric acid and Intrinsic Factor (which is required for Vitamin B12 absorption in the terminal ileum). Autoimmune destruction of these cells leads to pernicious anemia."
+    },
+    {
+        "id": 10,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo-Intestinal Tract",
+        "question": "The presence of Brunner's glands is a unique histological feature used to definitively identify a specific segment of the gastrointestinal tract. In which of the following anatomical locations are these submucosal alkaline-secreting glands found?",
+        "options": [
+            "Proximal duodenal segment",
+            "Distal jejunal structures",
+            "Terminal ileal structures",
+            "Ascending colonic mucosa"
+        ],
+        "correct_answer": "Proximal duodenal segment",
+        "explanation": "Brunner's glands are exclusively located in the submucosa of the duodenum. They secrete an alkaline mucus (bicarbonate) to neutralize the highly acidic chyme arriving from the stomach."
+    },
+    {
+        "id": 11,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo-Pancreas, Liver, Gallbladder, Biliary Tract",
+        "question": "In the presence of chronic liver injury such as alcoholic cirrhosis, which of the following hepatic cells differentiates into a myofibroblast-like cell and becomes the primary source of excess collagen deposition in the perisinusoidal space?",
+        "options": [
+            "Hepatic stellate (Ito) cell",
+            "Kupffer cell (macrophage)",
+            "Sinusoidal endothelial cell",
+            "Cholangiocyte (duct cell)"
+        ],
+        "correct_answer": "Hepatic stellate (Ito) cell",
+        "explanation": "In a healthy liver, hepatic stellate (Ito) cells primarily store Vitamin A in the Space of Disse. During chronic inflammation, they lose their lipid droplets, activate into myofibroblasts, and secrete the dense collagen matrix that causes cirrhosis."
+    },
+    {
+        "id": 12,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Risk Part 1",
+        "question": "In epidemiological studies, it is crucial to understand the mathematical distinction between probability (risk) and odds. Which of the following best describes this distinction?",
+        "options": [
+            "Risk uses the total population; odds uses the non-events.",
+            "Odds uses the total population; risk uses the non-events.",
+            "Risk uses only the case-controls; odds uses cohort tests.",
+            "Odds uses only the clinical trials; risk uses case series."
+        ],
+        "correct_answer": "Risk uses the total population; odds uses the non-events.",
+        "explanation": "Probability (Risk) is the number of events divided by the total number of people at risk. Odds is the number of events divided by the number of non-events."
+    },
+    {
+        "id": 13,
+        "faculty": "Benjamin Jaquish",
+        "session": "B3: (REQUIRED) Case - Robert Short",
+        "question": "A patient with short bowel syndrome presents with right upper quadrant pain and is found to have cholesterol gallstones. What is the primary pathophysiological mechanism for gallstone formation in this condition?",
+        "options": [
+            "Loss of terminal ileum prevents recycling of bile acids.",
+            "Loss of the duodenum prevents cholecystokinin secretion.",
+            "Increased colonic absorption of free cholesterol lipids.",
+            "Decreased hepatic synthesis of endogenous cholesterols."
+        ],
+        "correct_answer": "Loss of terminal ileum prevents recycling of bile acids.",
+        "explanation": "Resection of the terminal ileum breaks the enterohepatic circulation. Without recycled bile acids, the bile acid pool is depleted, and cholesterol precipitates out in the gallbladder to form stones."
+    },
+    {
+        "id": 14,
+        "faculty": "Cherie Singer",
+        "session": "B3: (REQUIRED) Carbohydrates Part 2",
+        "question": "A patient presents to the emergency department with severe tissue hypoxia after presumed exposure to a lethal poison in an industrial fire. Toxicological analysis confirms cyanide poisoning. Which specific component is inhibited by this toxin?",
+        "options": [
+            "Complex IV (Cytochrome c oxidase complex)",
+            "Complex I (NADH dehydrogenase complex)",
+            "Complex II (Succinate dehydrogenase unit)",
+            "Complex III (Cytochrome bc1 complex unit)"
+        ],
+        "correct_answer": "Complex IV (Cytochrome c oxidase complex)",
+        "explanation": "Cyanide binds tightly to the iron/copper centers of Complex IV, halting the transfer of electrons to oxygen and completely shutting down oxidative phosphorylation."
+    },
+    {
+        "id": 15,
+        "faculty": "Gillian Moritz",
+        "session": "B3: Anat - Embryology of Liver, Pancreas, Gallbladder, Biliary & Cases",
+        "question": "During foregut development, the pancreas forms from two separate endodermal outgrowths. The main pancreatic duct (of Wirsung) is ultimately formed by the fusion of which of the following structures?",
+        "options": [
+            "Ventral pancreatic duct and distal part of the dorsal duct.",
+            "Ventral pancreatic duct and proximal part of the dorsal duct.",
+            "Common bile duct and the distal part of the dorsal pancreas.",
+            "Cystic duct and the proximal part of the ventral pancreas."
+        ],
+        "correct_answer": "Ventral pancreatic duct and distal part of the dorsal duct.",
+        "explanation": "When the ventral and dorsal buds fuse, their ducts anastomose. The main pancreatic duct is formed by the entire ventral pancreatic duct and the distal portion of the dorsal pancreatic duct."
+    },
+    {
+        "id": 16,
+        "faculty": "Carl Sievert",
+        "session": "B3: Radiology-Abdominal Plain Film",
+        "question": "An upright chest X-ray is ordered for a patient presenting with an acute, rigid abdomen. The radiologist notes a distinct crescent of radiolucency immediately beneath the right hemidiaphragm. This finding most strongly indicates:",
+        "options": [
+            "Perforation of a hollow viscus such as the stomach or bowel.",
+            "Severe mechanical obstruction of the distal large intestine.",
+            "Ischemic necrosis of the mesenteric vascular supply network.",
+            "Acute inflammation of the gallbladder or the biliary tree."
+        ],
+        "correct_answer": "Perforation of a hollow viscus such as the stomach or bowel.",
+        "explanation": "Free air under the diaphragm (pneumoperitoneum) indicates that gas has escaped from the gastrointestinal tract, usually due to a perforated ulcer or ruptured bowel."
+    },
+    {
+        "id": 17,
+        "faculty": "Michael Bloch",
+        "session": "B3: (REQUIRED) Metabolic Syndrome",
+        "question": "A 45-year-old patient is being evaluated for metabolic syndrome. According to standard diagnostic criteria, which of the following must be present or uniquely elevated to contribute to the diagnosis?",
+        "options": [
+            "Elevated fasting blood glucose or current use of diabetes medication.",
+            "Markedly decreased levels of low-density lipoprotein (LDL) cholesterol.",
+            "Significant reduction in measured waist circumference for age and sex.",
+            "Elevated resting heart rate greater than one hundred beats per minute."
+        ],
+        "correct_answer": "Elevated fasting blood glucose or current use of diabetes medication.",
+        "explanation": "Diagnostic criteria for metabolic syndrome include elevated fasting glucose, increased waist circumference, elevated triglycerides, low HDL, and elevated blood pressure. LDL and heart rate are not part of the primary diagnostic criteria."
+    },
+    {
+        "id": 18,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Risk Part 2",
+        "question": "A clinical trial demonstrates that a new medication reduces the risk of myocardial infarction. If the Absolute Risk Reduction (ARR) is determined, how is the Number Needed to Treat (NNT) calculated?",
+        "options": [
+            "One divided by the absolute risk reduction calculated from the trial.",
+            "One divided by the relative risk reduction calculated from the trial.",
+            "The absolute risk reduction divided by the control group event rate.",
+            "The relative risk reduction divided by the treatment group event rate."
+        ],
+        "correct_answer": "One divided by the absolute risk reduction calculated from the trial.",
+        "explanation": "The NNT represents how many patients need to receive the intervention to prevent one additional bad outcome, calculated simply as 1 / ARR."
+    },
+    {
+        "id": 19,
+        "faculty": "Sal Baker",
+        "session": "B3: Phys - Enteric Nervous System and Gastroparesis",
+        "question": "A patient with long-standing diabetes presents with early satiety, nausea, and vomiting of undigested food. Gastroparesis is suspected. This dysmotility is strongly associated with the dysfunction or depletion of which specific cell type?",
+        "options": [
+            "Interstitial cells of Cajal (ICCs)",
+            "Parietal cells of the gastric body",
+            "Enterochromaffin-like (ECL) cells",
+            "Goblet cells of the duodenal wall"
+        ],
+        "correct_answer": "Interstitial cells of Cajal (ICCs)",
+        "explanation": "ICCs are the pacemaker cells of the gastrointestinal tract. Their depletion or damage (often due to diabetic neuropathy) disrupts the normal slow waves required for gastric emptying."
+    },
+    {
+        "id": 20,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo-Intestinal Tract",
+        "question": "The mucosal immune system relies on specialized cells to sample the luminal environment. Which cells, found in the epithelium overlying Peyer's patches, actively transport antigens to underlying dendritic cells and lymphocytes?",
+        "options": [
+            "Microfold (M) cells located in the mucosal layer.",
+            "Paneth secretory cells located in the crypt bases.",
+            "Goblet mucous cells located in the epithelial wall.",
+            "Absorptive enterocytes located on the villus tips."
+        ],
+        "correct_answer": "Microfold (M) cells located in the mucosal layer.",
+        "explanation": "M-cells lack typical microvilli and a thick glycocalyx, allowing them to endocytose antigens from the gut lumen and pass them directly to the immune cells below."
+    },
+    {
+        "id": 21,
+        "faculty": "Sal Baker",
+        "session": "B3: Phys - Small And Large Intestine Secretion and Absorption Part 1",
+        "question": "The absorption of dietary carbohydrates requires transport across the apical membrane of the enterocyte. Which specific transporter is responsible for the active uptake of both glucose and galactose from the intestinal lumen?",
+        "options": [
+            "Sodium-glucose linked transporter 1 (SGLT1)",
+            "Facilitated glucose transporter type 5 (GLUT5)",
+            "Facilitated glucose transporter type 2 (GLUT2)",
+            "Sodium-potassium adenosine triphosphatase "
+        ],
+        "correct_answer": "Sodium-glucose linked transporter 1 (SGLT1)",
+        "explanation": "Glucose and galactose are actively transported into the enterocyte against their concentration gradients by SGLT1, which uses the secondary active transport energy of the sodium gradient."
+    },
+    {
+        "id": 22,
+        "faculty": "Sal Baker",
+        "session": "B3: Phys - Small And Large Intestine Secretion and Absorption Part 1",
+        "question": "Cholera toxin induces severe secretory diarrhea by permanently activating adenylyl cyclase in the intestinal crypt cells. This massive outpouring of fluid is primarily driven by the continuous opening of which apical membrane channel?",
+        "options": [
+            "Cystic fibrosis transmembrane conductance regulator",
+            "Epithelial sodium channel for active reabsorption",
+            "Voltage-gated calcium channel for exocytosis events",
+            "Potassium inward rectifying channel on the surface"
+        ],
+        "correct_answer": "Cystic fibrosis transmembrane conductance regulator",
+        "explanation": "Elevated intracellular cAMP strongly activates the CFTR chloride channel. Massive chloride secretion into the lumen draws sodium and water with it paracellularly, resulting in profuse watery diarrhea."
+    },
+    {
+        "id": 23,
+        "faculty": "Benjamin Jaquish",
+        "session": "B3: (REQUIRED) Case - Robert Short",
+        "question": "A patient with a history of severe Crohn's disease undergoes surgical resection of the terminal ileum. Post-operatively, he develops profound steatorrhea. This occurs primarily because the terminal ileum is the exclusive site for the absorption of:",
+        "options": [
+            "Conjugated bile salts via active transport",
+            "Dietary triglycerides via chylomicrons ",
+            "Water-soluble vitamins via carrier proteins",
+            "Short-chain fatty acids via simple diffusion"
+        ],
+        "correct_answer": "Conjugated bile salts via active transport",
+        "explanation": "The terminal ileum reabsorbs 95% of bile salts to be recycled to the liver. Without it, the bile acid pool is rapidly depleted, preventing adequate micelle formation and fat digestion."
+    },
+    {
+        "id": 24,
+        "faculty": "Michael Bloch",
+        "session": "B3: (REQUIRED) Metabolic Syndrome",
+        "question": "A 52-year-old male is evaluated for cardiovascular risk. Which of the following constellations of clinical findings is sufficient to officially confirm a diagnosis of Metabolic Syndrome according to standard criteria?",
+        "options": [
+            "Elevated triglycerides, low HDL, and high blood pressure.",
+            "Elevated LDL cholesterol, high BMI, and resting tachycardia.",
+            "Low fasting glucose, elevated total cholesterol, and obesity.",
+            "High C-reactive protein, high blood pressure, and low BMI."
+        ],
+        "correct_answer": "Elevated triglycerides, low HDL, and high blood pressure.",
+        "explanation": "Metabolic syndrome requires at least 3 of 5 criteria: elevated waist circumference, elevated triglycerides, reduced HDL, elevated blood pressure, and elevated fasting glucose. LDL is not a direct criterion."
+    },
+    {
+        "id": 25,
+        "faculty": "Frieda Hulka",
+        "session": "B3: ANAT: Abdominal Viscera",
+        "question": "During a splenectomy following blunt abdominal trauma, the surgeon must ligate the short gastric arteries to fully mobilize the spleen. These specific vessels are contained entirely within which of the following peritoneal reflections?",
+        "options": [
+            "Gastrosplenic ligament connecting to stomach",
+            "Splenorenal ligament connecting to the kidney",
+            "Hepatoduodenal ligament connecting to liver",
+            "Gastrocolic ligament connecting to the colon"
+        ],
+        "correct_answer": "Gastrosplenic ligament connecting to stomach",
+        "explanation": "The short gastric arteries and the left gastroepiploic vessels run through the gastrosplenic ligament to supply the greater curvature of the stomach."
+    },
+    {
+        "id": 26,
+        "faculty": "Gillian Moritz",
+        "session": "B3: Anat - Embryology of Liver, Pancreas, Gallbladder, Biliary & Cases",
+        "question": "The development of the pancreas involves the rotation and fusion of two separate endodermal buds. The uncinate process and the inferior portion of the head of the mature pancreas are derived exclusively from the:",
+        "options": [
+            "Ventral pancreatic bud structure",
+            "Dorsal pancreatic bud structure",
+            "Caudal hepatic diverticulum bud",
+            "Cranial hepatic diverticulum bud"
+        ],
+        "correct_answer": "Ventral pancreatic bud structure",
+        "explanation": "The ventral pancreatic bud rotates dorsally around the duodenum to fuse with the dorsal bud. The ventral bud forms only the uncinate process and the inferior part of the head."
+    },
+    {
+        "id": 27,
+        "faculty": "Gillian Moritz",
+        "session": "B3: Anat - Embryology of Liver, Pancreas, Gallbladder, Biliary & Cases",
+        "question": "Biliary atresia is a life-threatening neonatal condition characterized by the progressive obliteration of the extrahepatic bile ducts. Embryologically, this is most often attributed to a failure of which specific developmental process?",
+        "options": [
+            "Recanalization of the solid endodermal biliary cord",
+            "Formation of the primary hepatic diverticulum bud",
+            "Migration of neural crest cells to the foregut end",
+            "Rotation of the ventral pancreatic bud structures "
+        ],
+        "correct_answer": "Recanalization of the solid endodermal biliary cord",
+        "explanation": "The bile ducts initially form as a solid cord of endodermal cells. If these cells fail to undergo apoptosis and recanalize to form a hollow tube, biliary atresia results."
+    },
+	{
+        "id": 28,
+        "faculty": "Gillian Moritz",
+        "session": "B3: Anat-Posterior Abdominal Wall",
+        "question": "Congenital diaphragmatic hernias (CDH) typically occur due to a failure of the pleuroperitoneal membrane to close. On which side do these hernias most commonly occur, and what is the anatomical reason?",
+        "options": [
+            "Left side, due to the protective presence of the large liver on the right",
+            "Right side, due to the protective presence of the large stomach left side",
+            "Left side, due to the delayed descent of the spleen during fetal periods ",
+            "Right side, due to the rapid expansion of the right lung in gestation    "
+        ],
+        "correct_answer": "Left side, due to the protective presence of the large liver on the right",
+        "explanation": "The right side of the diaphragm is protected by the massive physical bulk of the liver. Therefore, defects in the pleuroperitoneal membrane (Foramen of Bochdalek) most commonly result in left-sided herniation of abdominal contents into the thorax."
+    },
+    {
+        "id": 29,
+        "faculty": "Lars Webb",
+        "session": "B3: (REQUIRED) Case - Lori Blaha",
+        "question": "A patient undergoes a Roux-en-Y gastric bypass. What is the most common long-term complication this patient must be monitored for?",
+        "options": [
+            "Nutritional deficiencies, specifically requiring iron and B12 supplements",
+            "Internal herniation of the small bowel through mesenteric tissue defects ",
+            "Severe marginal ulcerations forming precisely at the gastrojejunal border",
+            "Massive postprandial hypoglycemia from exaggerated insulin hormone spikes"
+        ],
+        "correct_answer": "Nutritional deficiencies, specifically requiring iron and B12 supplements",
+        "explanation": "While internal hernias and marginal ulcers can occur, nutritional deficiencies (especially iron, B12, folate, and calcium) are the most common long-term complication of malabsorptive bariatric surgeries like RYGB, requiring lifelong supplementation."
+    },
+    {
+        "id": 30,
+        "faculty": "Sal Baker",
+        "session": "B3: Phys - Enteric Nervous System and Gastroparesis",
+        "question": "The basal electrical rhythm (slow waves) of the gastrointestinal tract determines the maximum frequency of smooth muscle contractions. These slow waves are continuously generated by which unique network of cells?",
+        "options": [
+            "Interstitial cells of Cajal located in the muscularis",
+            "Enterochromaffin cells located in the mucosal lining",
+            "Parasympathetic ganglia located in the submucosa",
+            "Sympathetic postganglionic fibers in the mesentery"
+        ],
+        "correct_answer": "Interstitial cells of Cajal located in the muscularis",
+        "explanation": "The Interstitial Cells of Cajal (ICCs) act as the electrical pacemakers of the GI tract, generating spontaneous slow waves that spread to adjacent smooth muscle cells via gap junctions."
+    },
+    {
+        "id": 31,
+        "faculty": "Sal Baker",
+        "session": "B3: Phys - Enteric Nervous System and Gastroparesis",
+        "question": "During the fasting state, the Migrating Motor Complex (MMC) sweeps undigested material from the stomach to the terminal ileum. The initiation of the MMC every 90 minutes is primarily controlled by the cyclical release of:",
+        "options": [
+            "Motilin hormone from M cells in the duodenal crypts",
+            "Gastrin hormone from G cells in the stomach antrum",
+            "Secretin hormone from S cells in the small intestine",
+            "Cholecystokinin from I cells in the proximal jejunum"
+        ],
+        "correct_answer": "Motilin hormone from M cells in the duodenal crypts",
+        "explanation": "Motilin is released cyclically during fasting and triggers the intense propagating contractions of the Migrating Motor Complex to clear the upper GI tract."
+    },
+    {
+        "id": 32,
+        "faculty": "Cherie Singer",
+        "session": "B3: (REQUIRED) Carbohydrates Part 2",
+        "question": "The Pyruvate Dehydrogenase Complex (PDC) links glycolysis to the TCA cycle. This massive multienzyme complex requires five distinct coenzymes to function. Which of the following vitamins is required to synthesize the TPP coenzyme?",
+        "options": [
+            "Thiamine (Vitamin B1) dietary requirement",
+            "Riboflavin (Vitamin B2) dietary requirement",
+            "Niacin (Vitamin B3) essential dietary intake",
+            "Pantothenic acid (Vitamin B5) daily intake"
+        ],
+        "correct_answer": "Thiamine (Vitamin B1) dietary requirement",
+        "explanation": "The PDC requires Thiamine pyrophosphate (TPP), Lipoic acid, CoA (B5), FAD (B2), and NAD+ (B3). Thiamine deficiency severely impairs this step, leading to lactic acidosis and neurological damage (Wernicke-Korsakoff)."
+    },
+    {
+        "id": 33,
+        "faculty": "Cherie Singer",
+        "session": "B3: (REQUIRED) Carbohydrates Part 2",
+        "question": "In the Electron Transport Chain, protons are pumped across the inner mitochondrial membrane to create an electrochemical gradient. Which of the following protein complexes does NOT pump protons across the membrane?",
+        "options": [
+            "Complex II (Succinate dehydrogenase structure)",
+            "Complex I (NADH dehydrogenase enzyme unit)",
+            "Complex III (Cytochrome bc1 enzyme complex)",
+            "Complex IV (Cytochrome c oxidase enzyme unit)"
+        ],
+        "correct_answer": "Complex II (Succinate dehydrogenase structure)",
+        "explanation": "Complex II transfers electrons from FADH2 directly to Coenzyme Q, but it does not span the membrane completely and does not pump any protons into the intermembrane space."
+    },
+    {
+        "id": 34,
+        "faculty": "Karon Felten",
+        "session": "B3: (REQUIRED) Micronutrients Part 1",
+        "question": "Non-heme dietary iron (predominantly in the Fe3+ ferric state) must be reduced before it can be efficiently absorbed by duodenal enterocytes. Which of the following vitamins powerfully enhances this specific reduction process?",
+        "options": [
+            "Ascorbic acid (Vitamin C) daily supplementation",
+            "Cholecalciferol (Vitamin D3) natural production",
+            "Cyanocobalamin (Vitamin B12) dietary sources",
+            "Phylloquinone (Vitamin K1) bacterial synthesis"
+        ],
+        "correct_answer": "Ascorbic acid (Vitamin C) daily supplementation",
+        "explanation": "Vitamin C (ascorbic acid) acts as a reducing agent in the gut lumen, converting poorly absorbed Fe3+ (ferric) iron into the highly absorbable Fe2+ (ferrous) state."
+    },
+    {
+        "id": 35,
+        "faculty": "Karon Felten",
+        "session": "B3: (REQUIRED) Micronutrients Part 1",
+        "question": "Patients with severe fat malabsorption are at high risk for deficiencies in fat-soluble vitamins. A deficiency in Vitamin K would most likely present clinically with which of the following significant complications?",
+        "options": [
+            "Severe bleeding diathesis and prolonged PT times",
+            "Night blindness and complete corneal ulceration",
+            "Osteomalacia and profoundly weak bone matrices",
+            "Peripheral neuropathy and severe sensory losses"
+        ],
+        "correct_answer": "Severe bleeding diathesis and prolonged PT times",
+        "explanation": "Vitamin K is essential for the gamma-carboxylation of clotting factors II, VII, IX, and X. Deficiency severely impairs the coagulation cascade, leading to bleeding and an elevated Prothrombin Time (PT)."
+    },
+	{
+        "id": 36,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: The Problem with Prevention",
+        "question": "Screening programs often appear to increase patient survival time simply because the disease was detected earlier in its natural course, even if the ultimate time of death remains completely unchanged. This statistical illusion is known as:",
+        "options": [
+            "Lead-time bias extending the known duration of the specific disease state",
+            "Length-time bias selecting for slowly progressive, indolent tumor growths",
+            "Overdiagnosis leading to the unnecessary treatment of totally benign mass",
+            "Selection bias enrolling healthier volunteers into the new screening arms"
+        ],
+        "correct_answer": "Lead-time bias extending the known duration of the specific disease state",
+        "explanation": "Lead-time bias occurs when screening catches a disease earlier. The patient lives longer with the *knowledge* of the disease (increasing 'survival time from diagnosis'), but their actual lifespan is not extended."
+    },
+    {
+        "id": 37,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Causality",
+        "question": "Sir Austin Bradford Hill proposed nine viewpoints to help determine if an observed epidemiological association is causal. Which of the following is the only absolutely essential criterion for causation?",
+        "options": [
+            "Temporality (the exposure must definitively precede the disease onset)   ",
+            "Biological gradient (increased exposures must lead to worse outcomes)    ",
+            "Consistency (the results must be replicated across different settings)   ",
+            "Specificity (the exposure must cause one incredibly specific disease)    "
+        ],
+        "correct_answer": "Temporality (the exposure must definitively precede the disease onset)   ",
+        "explanation": "While consistency, strength, and biological plausibility strengthen the argument for a causal relationship, temporality is the only non-negotiable requirement. An exposure cannot cause a disease if it occurs after the disease has already started."
+    },
+    {
+        "id": 38,
+        "faculty": "Frieda Hulka",
+        "session": "B3: (REQUIRED) Case - Carmela Amarillo",
+        "question": "A 42-year-old female undergoes an ultrasound for severe right upper quadrant pain. The report notes gallstones and a markedly thickened gallbladder wall with pericholecystic fluid. She has a positive Murphy's sign. The most likely diagnosis is:",
+        "options": [
+            "Acute cholecystitis with gallbladder wall edema",
+            "Uncomplicated cholelithiasis in the gallbladder",
+            "Acute cholangitis with common bile duct blockage",
+            "Acute pancreatitis with enzymatic tissue necrosis"
+        ],
+        "correct_answer": "Acute cholecystitis with gallbladder wall edema",
+        "explanation": "A positive Murphy's sign, combined with a thickened wall and pericholecystic fluid, indicates acute inflammation of the gallbladder itself (acute cholecystitis), typically caused by an obstructing stone in the cystic duct."
+    },
+    {
+        "id": 39,
+        "faculty": "Frieda Hulka",
+        "session": "B3: (REQUIRED) Case - Carmela Amarillo",
+        "question": "In a patient with suspected choledocholithiasis, laboratory testing usually reveals an obstructive pattern. Which of the following serum markers is the most sensitive and specific indicator of biliary tract obstruction?",
+        "options": [
+            "Significantly elevated Alkaline Phosphatase",
+            "Profoundly elevated Aspartate Aminotransferase",
+            "Significantly elevated unconjugated bilirubin",
+            "Profoundly elevated serum lipase concentrations"
+        ],
+        "correct_answer": "Significantly elevated Alkaline Phosphatase",
+        "explanation": "Alkaline Phosphatase (AP) is concentrated in the apical membranes of the bile duct epithelium. When the ducts are obstructed and pressure rises, AP synthesis increases and it is shed heavily into the blood."
+    },
+    {
+        "id": 40,
+        "faculty": "Cherie Singer",
+        "session": "B3: (REQUIRED) Biochem: Lipids",
+        "question": "During the fed state, excess glucose is diverted into de novo fatty acid synthesis in the liver. Which cytosolic enzyme catalyzes the committed, rate-limiting step of converting Acetyl-CoA into Malonyl-CoA?",
+        "options": [
+            "Acetyl-CoA Carboxylase (ACC) specific enzyme",
+            "Fatty Acid Synthase (FAS) complex machinery",
+            "ATP-Citrate Lyase (ACL) cleaving protein unit",
+            "HMG-CoA Reductase cholesterol regulatory unit"
+        ],
+        "correct_answer": "Acetyl-CoA Carboxylase (ACC) specific enzyme",
+        "explanation": "ACC is the highly regulated, rate-limiting enzyme of lipogenesis. It is allosterically activated by citrate and covalently activated by insulin (via dephosphorylation) to promote fat storage."
+    },
+    {
+        "id": 41,
+        "faculty": "Cherie Singer",
+        "session": "B3: (REQUIRED) Biochem: Lipids",
+        "question": "In order for long-chain fatty acids to undergo beta-oxidation within the mitochondrial matrix, they must first be transported across the inner mitochondrial membrane. Which specific molecule acts as the essential carrier for this transport process?",
+        "options": [
+            "Carnitine shuttle system using transferase enzymes",
+            "Citrate shuttle system utilizing cleavage enzymes",
+            "Malate-Aspartate shuttle for electron movements",
+            "Glycerol-3-Phosphate shuttle for reducing power"
+        ],
+        "correct_answer": "Carnitine shuttle system using transferase enzymes",
+        "explanation": "Long-chain fatty acids are attached to Carnitine by CPT-I to cross the inner mitochondrial membrane. This is a critical regulatory point; malonyl-CoA (from fat synthesis) directly inhibits CPT-I to prevent simultaneous fat synthesis and breakdown."
+    },
+    {
+        "id": 42,
+        "faculty": "Sal Baker",
+        "session": "B3: Phys-Small And Large Intestine Secretion And Absorption Part 2",
+        "question": "Bile salts are critical for the emulsification and absorption of dietary lipids. In the enterohepatic circulation, the vast majority of secreted bile salts are actively reabsorbed by specialized transporters located exclusively in the:",
+        "options": [
+            "Terminal ileum using apical sodium transporters",
+            "Proximal duodenum utilizing passive absorption",
+            "Distal jejunum utilizing specific lipid channels",
+            "Ascending colon utilizing water solvent gradients"
+        ],
+        "correct_answer": "Terminal ileum using apical sodium transporters",
+        "explanation": "The terminal ileum contains the Apical Sodium-Dependent Bile Salt Transporter (ASBT), which actively reabsorbs 95% of bile salts so they can be returned to the liver via the portal vein."
+    },
+	{
+        "id": 43,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Case Reports",
+        "question": "Case reports are highly valuable in medicine for documenting novel or rare clinical phenomena. However, what is the primary limitation of a case report when evaluating medical evidence?",
+        "options": [
+            "It cannot be used to establish definitive causality or generalizability  ",
+            "It requires massive financial resources and takes many years to finish   ",
+            "It is highly vulnerable to the ecological fallacy and group-level data   ",
+            "It measures exposures and outcomes simultaneously, lacking temporality   "
+        ],
+        "correct_answer": "It cannot be used to establish definitive causality or generalizability  ",
+        "explanation": "Because a case report only looks at a single patient without any control group, it sits near the bottom of the evidence hierarchy. It is excellent for generating hypotheses, but it cannot prove causation or generalize to the broader population."
+    },
+    {
+        "id": 44,
+        "faculty": "Albert Gonzales",
+        "session": "B3: Endocrine Introduction",
+        "question": "Hormones can be classified by their biochemical structure, which dictates their cellular mechanism of action. Which of the following hormone classes is highly lipophilic and relies primarily on intracellular nuclear receptors to alter gene transcription?",
+        "options": [
+            "Steroid hormones derived directly from cholesterol",
+            "Large peptide hormones composed of amino acids",
+            "Catecholamines derived primarily from tyrosine",
+            "Glycoprotein hormones with complex sugar chains"
+        ],
+        "correct_answer": "Steroid hormones derived directly from cholesterol",
+        "explanation": "Steroid hormones (e.g., cortisol, estrogen, testosterone) are lipid-soluble. They easily cross the cell membrane to bind intracellular receptors, which then translocate to the nucleus to act as transcription factors."
+    },
+    {
+        "id": 45,
+        "faculty": "Albert Gonzales",
+        "session": "B3: Endocrine Introduction",
+        "question": "Most peptide hormones exert their biological effects by binding to G-protein coupled receptors (GPCRs) on the target cell surface. Which specific G-protein alpha subunit directly activates phospholipase C (PLC) to increase intracellular calcium?",
+        "options": [
+            "G-alpha-q (activating the IP3 and DAG pathways)",
+            "G-alpha-s (stimulating the adenylyl cyclase unit)",
+            "G-alpha-i (inhibiting the adenylyl cyclase action)",
+            "G-alpha-12 (regulating the cellular cytoskeleton)"
+        ],
+        "correct_answer": "G-alpha-q (activating the IP3 and DAG pathways)",
+        "explanation": "Gq-coupled receptors activate PLC, which cleaves PIP2 into IP3 (which releases intracellular calcium) and DAG (which activates Protein Kinase C)."
+    },
+    {
+        "id": 46,
+        "faculty": "Albert Gonzales",
+        "session": "B3: Phys - Hypothalamus, Pituitary, And Peptide Hormone Synthesis",
+        "question": "The anterior pituitary gland synthesizes and secretes several crucial trophic hormones. Which of the following anterior pituitary hormones is tonically INHIBITED by dopamine release from the hypothalamus?",
+        "options": [
+            "Prolactin hormone responsible for milk synthesis",
+            "Growth hormone responsible for skeletal growths",
+            "Thyroid stimulating hormone for thyroid activity",
+            "Adrenocorticotropic hormone for adrenal outputs"
+        ],
+        "correct_answer": "Prolactin hormone responsible for milk synthesis",
+        "explanation": "Unlike most anterior pituitary hormones which are driven by releasing hormones, Prolactin is unique in that it is under constant tonic inhibition by hypothalamic dopamine (Prolactin-Inhibiting Factor)."
+    },
+    {
+        "id": 47,
+        "faculty": "Albert Gonzales",
+        "session": "B3: Phys - Hypothalamus, Pituitary, And Peptide Hormone Synthesis",
+        "question": "The posterior pituitary gland stores and releases hormones that are actually synthesized in the hypothalamus. Antidiuretic hormone (ADH) is primarily synthesized in the cell bodies of which specific hypothalamic nucleus?",
+        "options": [
+            "Supraoptic nucleus directly above the optic tract",
+            "Paraventricular nucleus adjacent to the ventricle",
+            "Arcuate nucleus located at the base of the brain",
+            "Suprachiasmatic nucleus controlling sleep rhythms"
+        ],
+        "correct_answer": "Supraoptic nucleus directly above the optic tract",
+        "explanation": "ADH (vasopressin) is primarily produced in the supraoptic nucleus, while oxytocin is primarily produced in the paraventricular nucleus. Both travel down axons to be released from the posterior pituitary."
+    },
+    {
+        "id": 48,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat - Anal Triangle, Male And Female Perineum",
+        "question": "The perineum is diamond-shaped and divided into anterior and posterior triangles by a line connecting the ischial tuberosities. What specific fibromuscular structure sits exactly in the center of this line and anchors the pelvic floor?",
+        "options": [
+            "The perineal body structure (the central tendon)",
+            "The deep transverse perineal muscle attachment",
+            "The anococcygeal ligament running to the coccyx",
+            "The dense membrane covering the urogenital area"
+        ],
+        "correct_answer": "The perineal body structure (the central tendon)",
+        "explanation": "The perineal body is a highly critical convergence point for the bulbospongiosus, external anal sphincter, and transverse perineal muscles. Disruption during childbirth can compromise pelvic organ support."
+    },
+    {
+        "id": 49,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat - Anal Triangle, Male And Female Perineum",
+        "question": "The ischioanal fossae are large, wedge-shaped spaces located on either side of the anal canal. They are predominantly filled with which specific tissue type to allow for the expansion of the anal canal during defecation?",
+        "options": [
+            "Dense adipose tissue (fat) for compliant packing",
+            "Loose areolar connective tissue with macrophages",
+            "Skeletal muscle fibers to assist external sphincter",
+            "Dense regular collagenous fibers for deep support"
+        ],
+        "correct_answer": "Dense adipose tissue (fat) for compliant packing",
+        "explanation": "The ischioanal fossae are packed with fat. This provides necessary structural support to the rectum while remaining compliant enough to allow the anal canal to expand widely during the passage of feces."
+    },
+    {
+        "id": 50,
+        "faculty": "Albert Gonzales",
+        "session": "B3: Phys - Thyroid",
+        "question": "Within the thyroid follicle, the enzyme Thyroid Peroxidase (TPO) is responsible for multiple key steps in hormone synthesis. Which of the following reactions is NOT catalyzed by TPO on the apical membrane?",
+        "options": [
+            "Active transport of iodide into the cellular space",
+            "Oxidation of ionic iodide into reactive free iodine",
+            "Organification of iodine onto the tyrosine residues",
+            "Coupling of iodotyrosines to form the T3 and T4"
+        ],
+        "correct_answer": "Active transport of iodide into the cellular space",
+        "explanation": "The active transport of iodide into the cell from the blood is performed by the Sodium-Iodide Symporter (NIS) on the basolateral membrane. TPO handles the oxidation, organification, and coupling steps on the apical membrane."
+    },
+    {
+        "id": 51,
+        "faculty": "Lisa Calvo",
+        "session": "B3: (REQUIRED) Case - Barbara Bushowitz",
+        "question": "A 28-year-old female is diagnosed with Graves' disease. She is prescribed Methimazole as first-line therapy. What is the primary mechanism of action of this antithyroid medication within the thyroid follicular cells?",
+        "options": [
+            "Inhibits the thyroid peroxidase enzyme unit",
+            "Blocks the peripheral conversion to active T3",
+            "Destroys the sodium-iodide symporter channel",
+            "Prevents the exocytosis of the thyroglobulin"
+        ],
+        "correct_answer": "Inhibits the thyroid peroxidase enzyme unit",
+        "explanation": "Methimazole (and PTU) works by inhibiting Thyroid Peroxidase (TPO), thereby blocking the oxidation of iodide, the organification of iodine onto thyroglobulin, and the coupling of iodotyrosines."
+    },
+    {
+        "id": 52,
+        "faculty": "Lisa Calvo",
+        "session": "B3: (REQUIRED) Case - Barbara Bushowitz",
+        "question": "In a patient presenting with symptomatic hyperthyroidism (tachycardia, tremors, anxiety), which class of medications is immediately administered for rapid symptomatic relief while waiting for definitive antithyroid therapies to take effect?",
+        "options": [
+            "Beta-adrenergic receptor blocking agents",
+            "Calcium channel blocking pharmaceutical",
+            "Angiotensin-converting enzyme inhibitors",
+            "Glucocorticoid steroid receptor agonists"
+        ],
+        "correct_answer": "Beta-adrenergic receptor blocking agents",
+        "explanation": "Beta-blockers (like propranolol) are used to quickly control the sympathetic hyperstimulation symptoms of hyperthyroidism. Propranolol also has the added benefit of partially blocking the peripheral conversion of T4 to T3."
+    },
+    {
+        "id": 53,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat-Anatomy Of The Pelvis",
+        "question": "The pelvic cavity is anatomically divided into the greater (false) pelvis and the lesser (true) pelvis. Which of the following bony landmarks forms the lateral boundaries of the pelvic inlet (pelvic brim) that separates these two regions?",
+        "options": [
+            "The arcuate and pectineal lines on the bone",
+            "The ischial tuberosities and the pubic arch",
+            "The sacral promontory and the sacral alae",
+            "The anterior superior iliac spine processes"
+        ],
+        "correct_answer": "The arcuate and pectineal lines on the bone",
+        "explanation": "The pelvic inlet is bounded posteriorly by the sacral promontory, laterally by the iliopectineal lines (arcuate and pectineal lines), and anteriorly by the superior pubic symphysis."
+    },
+    {
+        "id": 54,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat-Anatomy Of The Pelvis",
+        "question": "When comparing the male and female bony pelvis, several distinct anatomical differences exist to facilitate childbirth. Which of the following characteristics is a hallmark of the typical biologically female (gynecoid) pelvis?",
+        "options": [
+            "A significantly wider and more obtuse subpubic angle",
+            "A narrow, heart-shaped, and restricted pelvic inlet",
+            "A heavy, thick, and highly prominent bony structure",
+            "A sacrum that is sharply curved and angled anteriorly"
+        ],
+        "correct_answer": "A significantly wider and more obtuse subpubic angle",
+        "explanation": "The female pelvis is adapted for childbearing. It features a wider, more circular pelvic inlet, a broader sciatic notch, and a significantly wider subpubic angle (typically >80 degrees) compared to the male pelvis."
+    },
+    {
+        "id": 55,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat-Anatomy Of The Pelvis",
+        "question": "The uterus is primarily supported within the pelvic cavity by dynamic muscular floors and static ligamentous condensations of endopelvic fascia. Which ligament provides the most critical direct structural support to prevent uterine prolapse?",
+        "options": [
+            "The transverse cervical (cardinal) ligament structures",
+            "The round ligament extending through the inguinal canal",
+            "The broad ligament draping over the reproductive tubes",
+            "The suspensory ligament of the ovary containing vessels"
+        ],
+        "correct_answer": "The transverse cervical (cardinal) ligament structures",
+        "explanation": "The cardinal (transverse cervical) ligaments and the uterosacral ligaments provide the main passive support for the uterus, anchoring the cervix to the lateral pelvic walls and the sacrum, respectively."
+    },
+    {
+        "id": 56,
+        "faculty": "Seungil Ro",
+        "session": "B3: Phys - Pancreas/Development of Diabetes",
+        "question": "Insulin is synthesized in the pancreatic beta cells as a large precursor molecule called proinsulin. Before active insulin is secreted into the bloodstream, it is cleaved into two distinct products. These products are mature insulin and:",
+        "options": [
+            "Connecting peptide (C-peptide) released in equal amounts",
+            "Amylin polypeptide released in significantly lower amounts",
+            "Glucagon hormone released for counter-regulatory action",
+            "Somatostatin peptide released for local paracrine actions"
+        ],
+        "correct_answer": "Connecting peptide (C-peptide) released in equal amounts",
+        "explanation": "Proinsulin is cleaved into insulin and C-peptide. Because they are co-secreted in a 1:1 ratio and C-peptide is not extracted by the liver, measuring C-peptide is an excellent clinical marker of endogenous insulin production."
+    },
+    {
+        "id": 57,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat Pelvic Wall Nerves And Vasculature",
+        "question": "The internal iliac artery provides the primary blood supply to the pelvic viscera. Which of the following major arteries is typically the largest branch of the posterior division of the internal iliac artery?",
+        "options": [
+            "The superior gluteal artery exiting above the piriformis",
+            "The inferior gluteal artery exiting below the piriformis",
+            "The internal pudendal artery exiting the greater foramen",
+            "The obturator artery traveling through the obturator canal"
+        ],
+        "correct_answer": "The superior gluteal artery exiting above the piriformis",
+        "explanation": "The posterior division of the internal iliac artery typically has three branches: the iliolumbar, the lateral sacral, and the superior gluteal artery (which is the largest branch and exits above the piriformis muscle)."
+    },
+    {
+        "id": 58,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Anat Pelvic Wall Nerves And Vasculature",
+        "question": "During a hysterectomy, the surgeon must ligate the uterine artery to prevent hemorrhage. Extreme caution must be taken during this step to avoid transecting which critical anatomical structure that passes immediately inferior to the uterine artery?",
+        "options": [
+            "The ureter traveling from the kidney to the bladder base",
+            "The internal pudendal artery coursing to the perineum",
+            "The obturator nerve supplying the medial thigh muscles",
+            "The round ligament of the uterus anchoring the fundus "
+        ],
+        "correct_answer": "The ureter traveling from the kidney to the bladder base",
+        "explanation": "The classic anatomical relationship 'water under the bridge' refers to the ureter (water) passing immediately posterior and inferior (under) the uterine artery (the bridge) as they approach the cervix."
+    },
+    {
+        "id": 59,
+        "faculty": "Mitchell Omar",
+        "session": "B3: Phys - Adrenal Gland",
+        "question": "Glucocorticoids (such as cortisol) are essential for surviving physiological stress. What is the primary metabolic effect of cortisol on the liver during a prolonged fasting state?",
+        "options": [
+            "Massively upregulates the process of gluconeogenesis",
+            "Massively upregulates the process of lipid lipogenesis",
+            "Strongly inhibits the breakdown of hepatic glycogens",
+            "Strongly stimulates the uptake of circulating glucose"
+        ],
+        "correct_answer": "Massively upregulates the process of gluconeogenesis",
+        "explanation": "Cortisol is a counter-regulatory hormone. It mobilizes amino acids from muscle and upregulates the enzymes required for gluconeogenesis in the liver to ensure the brain has a steady supply of glucose during stress/fasting."
+    },
+    {
+        "id": 60,
+        "faculty": "Mitchell Omar",
+        "session": "B3: Phys - Adrenal Gland",
+        "question": "A patient is evaluated for suspected Addison's disease (primary adrenal insufficiency). Which of the following laboratory profiles is most characteristic of this specific autoimmune condition?",
+        "options": [
+            "Decreased cortisol, decreased aldosterone, elevated ACTH",
+            "Decreased cortisol, normal aldosterone, decreased ACTH",
+            "Elevated cortisol, elevated aldosterone, decreased ACTH",
+            "Normal serum cortisol, normal aldosterone, normal ACTH"
+        ],
+        "correct_answer": "Decreased cortisol, decreased aldosterone, elevated ACTH",
+        "explanation": "In primary adrenal insufficiency, the adrenal cortex is destroyed, leading to low cortisol and low aldosterone. The loss of negative feedback causes the pituitary to vastly increase ACTH secretion in a futile attempt to stimulate the glands."
+    },
+    {
+        "id": 61,
+        "faculty": "Mitchell Omar",
+        "session": "B3: Phys - Adrenal Gland",
+        "question": "Pheochromocytomas are rare, catecholamine-secreting tumors. Where are these specific neuroendocrine tumors anatomically located?",
+        "options": [
+            "Within the chromaffin cells of the adrenal medulla area",
+            "Within the spongiocytes of the zona fasciculata region",
+            "Within the chief cells of the parathyroid gland tissue",
+            "Within the parafollicular cells of the thyroid margins"
+        ],
+        "correct_answer": "Within the chromaffin cells of the adrenal medulla area",
+        "explanation": "Pheochromocytomas arise from the chromaffin cells of the adrenal medulla, leading to episodic, uncontrolled secretion of epinephrine and norepinephrine, causing severe hypertension, tachycardia, and diaphoresis."
+    },
+    {
+        "id": 62,
+        "faculty": "Dean Burkin",
+        "session": "B3: Phys-Parathyroid And Ca2+ Homeostasis",
+        "question": "Parathyroid hormone (PTH) rapidly corrects hypocalcemia by acting directly on bone and kidney tissue. How does PTH indirectly increase the intestinal absorption of dietary calcium?",
+        "options": [
+            "By stimulating the synthesis of active Vitamin D in the kidney",
+            "By directly binding to the apical calcium channels in the gut",
+            "By inhibiting the secretion of calcitonin from the thyroid gland",
+            "By upregulating the sodium-calcium exchangers in the colon"
+        ],
+        "correct_answer": "By stimulating the synthesis of active Vitamin D in the kidney",
+        "explanation": "PTH directly stimulates the enzyme 1-alpha-hydroxylase in the proximal tubule of the kidney, which converts 25-hydroxyvitamin D into the active 1,25-dihydroxyvitamin D (calcitriol). Calcitriol then acts on the gut to absorb calcium."
+    },
+    {
+        "id": 63,
+        "faculty": "Dean Burkin",
+        "session": "B3: Phys-Parathyroid And Ca2+ Homeostasis",
+        "question": "A 55-year-old female presents with recurrent kidney stones, generalized bone pain, and fatigue. Laboratory tests reveal an elevated serum calcium level. Which additional finding would confirm a diagnosis of Primary Hyperparathyroidism?",
+        "options": [
+            "An inappropriately elevated parathyroid hormone (PTH)",
+            "A markedly suppressed parathyroid hormone (PTH) level",
+            "An extremely elevated serum phosphate concentration",
+            "A completely normal, mid-range serum calcium level"
+        ],
+        "correct_answer": "An inappropriately elevated parathyroid hormone (PTH)",
+        "explanation": "In normal physiology, high calcium should suppress PTH. If a patient has hypercalcemia alongside high or inappropriately normal PTH, the parathyroid gland is autonomously over-secreting (usually due to a benign adenoma)."
+    },
+    {
+        "id": 64,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo-Endocrine Tissue",
+        "question": "Histological examination of the parathyroid gland reveals two distinct cell types. Which cells are small, polygonal, possess pale-staining cytoplasm, and are the primary source of parathyroid hormone?",
+        "options": [
+            "The Chief (principal) cells of the parathyroid gland",
+            "The Oxyphil cells which contain abundant mitochondria",
+            "The Parafollicular cells situated between the follicles",
+            "The Chromaffin cells surrounding the central vessels"
+        ],
+        "correct_answer": "The Chief (principal) cells of the parathyroid gland",
+        "explanation": "Chief cells are the most numerous cells in the parathyroid gland and are responsible for synthesizing and secreting PTH. Oxyphil cells are larger, highly eosinophilic (due to massive amounts of mitochondria), and their function is largely unknown."
+    },
+    {
+        "id": 65,
+        "faculty": "Thomas Gould",
+        "session": "B3: Histo-Endocrine Tissue",
+        "question": "The adrenal cortex is divided into three distinct histological zones. The thickest, middle zone is characterized by cords of large, lipid-filled 'spongiocytes'. What is the name of this specific zone?",
+        "options": [
+            "The zona fasciculata (which secretes glucocorticoids)",
+            "The zona glomerulosa (which secretes mineralocorticoids)",
+            "The zona reticularis (which secretes weak androgens)",
+            "The adrenal medulla (which secretes catecholamines)"
+        ],
+        "correct_answer": "The zona fasciculata (which secretes glucocorticoids)",
+        "explanation": "The zona fasciculata is the middle and largest layer of the adrenal cortex. Its cells are arranged in long, straight cords (fascicles) and have a foamy appearance ('spongiocytes') due to abundant lipid droplets used for cortisol synthesis."
+    },
+    {
+        "id": 66,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Endocrine Control Of Female Reproduction",
+        "question": "According to the two-cell, two-gonadotropin theory of ovarian steroidogenesis, how do the granulosa cells ultimately produce estradiol?",
+        "options": [
+            "They use the enzyme aromatase to convert androgens from theca cells",
+            "They synthesize estradiol completely de novo from circulating cholesterol",
+            "They convert progesterone directly into estradiol via specialized enzymes",
+            "They passively absorb estradiol secreted by the surrounding theca cells"
+        ],
+        "correct_answer": "They use the enzyme aromatase to convert androgens from theca cells",
+        "explanation": "Theca cells (stimulated by LH) produce androgens (androstenedione/testosterone). These androgens diffuse into the adjacent granulosa cells (stimulated by FSH), which use the enzyme aromatase to convert them into estrogens (estradiol)."
+    },
+    {
+        "id": 67,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Endocrine Control Of Female Reproduction",
+        "question": "During the menstrual cycle, the luteal phase is characterized by the formation of the corpus luteum following ovulation. Which hormone is predominantly secreted by the corpus luteum to maintain the secretory endometrium for potential implantation?",
+        "options": [
+            "Progesterone hormone for maintaining uterine linings",
+            "Estradiol hormone for rapid cellular proliferations",
+            "Luteinizing hormone to trigger the rupture of follicles",
+            "Follicle-stimulating hormone to recruit a new cohort"
+        ],
+        "correct_answer": "Progesterone hormone for maintaining uterine linings",
+        "explanation": "After ovulation, the remnant of the follicle becomes the corpus luteum, which secretes massive amounts of progesterone. Progesterone matures the endometrial lining into a secretory state, preparing it to nourish an implanting blastocyst."
+    },
+    {
+        "id": 68,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Endocrine Control Of Female Reproduction",
+        "question": "A 52-year-old female presents with hot flashes, vaginal dryness, and exactly 12 months of amenorrhea. Which of the following endocrine laboratory profiles definitively confirms the diagnosis of menopause?",
+        "options": [
+            "Persistently and significantly elevated serum FSH levels",
+            "Persistently and significantly elevated serum estrogen",
+            "Markedly decreased serum luteinizing hormone levels",
+            "Markedly elevated levels of circulating inhibin proteins"
+        ],
+        "correct_answer": "Persistently and significantly elevated serum FSH levels",
+        "explanation": "Menopause occurs when the ovaries run out of functional follicles. Without follicles, estrogen and inhibin levels drop precipitously. The loss of this negative feedback causes the anterior pituitary to secrete massively elevated levels of FSH."
+    },
+ {
+        "id": 69,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Case Reports",
+        "question": "When preparing a case report for publication, obtaining informed patient consent is a strict ethical requirement. According to standard publication guidelines, at what point does the patient's ability to revoke their consent officially expire?",
+        "options": [
+            "Once the article has formally gone to press for medical publication      ",
+            "Immediately after the initial manuscript is submitted to the journal     ",
+            "As soon as the patient signs the standard hospital intake agreements     ",
+            "After the peer-review process is fully completed by the editorial team   "
+        ],
+        "correct_answer": "Once the article has formally gone to press for medical publication      ",
+        "explanation": "Patients must be informed that the reach of medical publications is vast and often permanent online. Standard consent forms state that once the article has 'gone to press' or been published, the patient can no longer revoke their consent."
+    },
+    {
+        "id": 70,
+        "faculty": "Kelsey Gipe",
+        "session": "B3: (REQUIRED) Ethics - Conscientious Objection",
+        "question": "A physician's right to conscientious objection allows them to refuse to provide a specific, legally permissible medical service. However, this right is generally overridden and cannot be invoked if the refusal would result in:",
+        "options": [
+            "Immediate and severe harm to the patient's health or overall wellbeing   ",
+            "A significant financial burden placed upon the local healthcare system   ",
+            "A direct conflict with the patient's extended family members' requests   ",
+            "The patient having to drive to a different clinic across the city lines  "
+        ],
+        "correct_answer": "Immediate and severe harm to the patient's health or overall wellbeing   ",
+        "explanation": "Conscientious objection is a recognized ethical right, but it is not absolute. A physician cannot invoke conscientious objection in an emergency situation where withholding treatment would result in immediate and severe harm to the patient."
+    },
+    {
+        "id": 71,
+        "faculty": "Kelsey Gipe",
+        "session": "B3: (REQUIRED) Ethics - Conscientious Objection",
+        "question": "When a physician exercises conscientious objection and refuses to perform a specific procedure, they still maintain a professional obligation to the patient to prevent abandonment. This obligation is typically fulfilled by:",
+        "options": [
+            "Providing a timely and effective referral to another willing provider    ",
+            "Attempting to convince the patient to accept an alternative treatment    ",
+            "Withholding medical records until the patient finds another physician    ",
+            "Refusing to acknowledge the existence of the objectionable treatments    "
+        ],
+        "correct_answer": "Providing a timely and effective referral to another willing provider    ",
+        "explanation": "To ensure continuity of care and respect for patient autonomy, a physician who conscientiously objects to a procedure must facilitate a timely and effective transfer of care to a provider who is willing to perform the service."
+    },
+    {
+        "id": 72,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Embryology Of Male And Female Reproductive System",
+        "question": "During early embryonic development, the gonads are completely bipotential. The crucial genetic switch that forces these indifferent gonads to develop into testes rather than ovaries is the presence of:",
+        "options": [
+            "The SRY gene located on the short arm of the Y chromosome",
+            "The continuous presence of maternal estrogens in the blood",
+            "The secretion of Anti-Mullerian Hormone by the yolk sacs",
+            "The presence of two copies of the X chromosome in the cell"
+        ],
+        "correct_answer": "The SRY gene located on the short arm of the Y chromosome",
+        "explanation": "The SRY (Sex-determining Region Y) gene encodes for Testis-Determining Factor (TDF). Its expression is the master switch that drives the bipotential gonadal ridge to differentiate into testes."
+    },
+    {
+        "id": 73,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Embryology Of Male And Female Reproductive System",
+        "question": "The internal genitalia of both sexes develop from two pairs of embryonic ducts. In typical male (XY) development, the mesonephric (Wolffian) ducts develop into the epididymis, vas deferens, and seminal vesicles due to the direct stimulation by:",
+        "options": [
+            "Testosterone secreted locally by the fetal Leydig cells",
+            "Anti-Mullerian Hormone secreted by the Sertoli cells",
+            "Dihydrotestosterone produced by peripheral tissues",
+            "Estrogen produced by the maternal placental tissues"
+        ],
+        "correct_answer": "Testosterone secreted locally by the fetal Leydig cells",
+        "explanation": "Fetal Leydig cells secrete high levels of testosterone. This testosterone acts locally to 'rescue' the mesonephric (Wolffian) ducts from apoptosis and promotes their differentiation into the internal male reproductive tract."
+    },
+    {
+        "id": 74,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Endocrine Control Of Male Reproduction",
+        "question": "Spermatogenesis requires a highly specific microenvironment within the seminiferous tubules. Which cells are responsible for creating the blood-testis barrier to protect developing sperm from the male's own immune system?",
+        "options": [
+            "Sertoli cells connected by extremely tight cellular junctions",
+            "Leydig cells located in the highly vascular interstitial spaces",
+            "Myoid cells wrapping around the exterior of the tubule walls",
+            "Spermatogonia resting directly upon the basement membrane"
+        ],
+        "correct_answer": "Sertoli cells connected by extremely tight cellular junctions",
+        "explanation": "Sertoli cells are the 'nurse' cells of the testis. They form tight junctions with one another to create an impenetrable blood-testis barrier, shielding the genetically distinct haploid sperm from autoimmune attack."
+    },
+    {
+        "id": 75,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Endocrine Control Of Male Reproduction",
+        "question": "While testosterone mediates many male secondary sex characteristics, the development of the external male genitalia (penis, scrotum, prostate) strictly requires the conversion of testosterone into a much more potent androgen. Which enzyme catalyzes this specific conversion?",
+        "options": [
+            "5-alpha-reductase converting it to dihydrotestosterone",
+            "Aromatase converting it into highly active estradiol levels",
+            "Desmolase cleaving the cholesterol side chain structures",
+            "21-hydroxylase generating active mineralocorticoids"
+        ],
+        "correct_answer": "5-alpha-reductase converting it to dihydrotestosterone",
+        "explanation": "Testosterone must be converted into dihydrotestosterone (DHT) by the enzyme 5-alpha-reductase in target tissues to effectively virilize the external genitalia and drive prostate growth."
+    },
+    {
+        "id": 76,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Endocrine Control Of Male Reproduction",
+        "question": "A male athlete abusing high doses of synthetic exogenous anabolic steroids will typically present with significant muscle hypertrophy but markedly reduced testicular size (testicular atrophy). What is the physiological mechanism for this atrophy?",
+        "options": [
+            "Exogenous androgens exert massive negative feedback on LH and FSH",
+            "Exogenous androgens directly induce apoptosis of the Leydig tissues",
+            "The synthetic steroids completely block peripheral androgen receptors",
+            "The high hormone levels trigger an autoimmune attack on the testis"
+        ],
+        "correct_answer": "Exogenous androgens exert massive negative feedback on LH and FSH",
+        "explanation": "Exogenous steroids provide massive negative feedback to the hypothalamus and pituitary, shutting down GnRH, LH, and FSH production. Without endogenous LH and FSH, the testes stop producing their own testosterone, halt spermatogenesis, and shrink."
+    },
+    {
+        "id": 77,
+        "faculty": "Gillian Moritz",
+        "session": "B3: (REQUIRED) Ultrasound - Abdomen",
+        "question": "When performing point-of-care ultrasound on the abdomen, selecting the correct transducer frequency is vital for image quality. The fundamental physical trade-off in medical ultrasound dictates that a higher frequency sound wave will provide:",
+        "options": [
+            "Superior spatial resolution but extremely shallow tissue penetration",
+            "Deeper tissue penetration but significantly degraded image resolution",
+            "A much wider field of view but at the cost of a slower frame rate",
+            "A brighter overall image but with massive posterior acoustic shadows"
+        ],
+        "correct_answer": "Superior spatial resolution but extremely shallow tissue penetration",
+        "explanation": "Higher frequency sound waves (e.g., from a linear probe) offer excellent image resolution but cannot penetrate deep into the body. Conversely, lower frequency waves (from a curvilinear probe) penetrate deeply but have poorer resolution."
+    },
+    {
+        "id": 78,
+        "faculty": "Gillian Moritz",
+        "session": "B3: (REQUIRED) Ultrasound - Abdomen",
+        "question": "A physician is using ultrasound to evaluate a patient for an Abdominal Aortic Aneurysm (AAA). To ensure an accurate measurement of the aorta's true diameter, the physician must measure:",
+        "options": [
+            "From the outer edge of the anterior wall to the outer edge of the posterior wall",
+            "From the inner lumen of the anterior wall to the inner lumen of posterior wall",
+            "From the left lateral outer wall to the right lateral inner wall of the vessel",
+            "From the superior mesenteric artery takeoff down to the iliac bifurcations"
+        ],
+        "correct_answer": "From the outer edge of the anterior wall to the outer edge of the posterior wall",
+        "explanation": "When measuring the aorta for an aneurysm via ultrasound, it is critical to measure 'outer wall to outer wall' in the transverse plane to capture the true, full expansion of the vessel, including any mural thrombus."
+    },
+    {
+        "id": 79,
+        "faculty": "Gillian Moritz",
+        "session": "B3: (REQUIRED) Ultrasound - Abdomen",
+        "question": "During a FAST (Focused Assessment with Sonography for Trauma) exam, the physician scans the Right Upper Quadrant to look for free fluid (blood) accumulating in Morison's pouch. Anatomically, Morison's pouch is the potential space located exactly between the:",
+        "options": [
+            "Liver and the right kidney (the hepatorenal recess area)",
+            "Spleen and the left kidney (the splenorenal recess area)",
+            "Bladder and the rectum (the rectovesical pouch margins)",
+            "Stomach and the pancreas (the lesser sac boundaries)"
+        ],
+        "correct_answer": "Liver and the right kidney (the hepatorenal recess area)",
+        "explanation": "Morison's pouch (the hepatorenal recess) is the potential space between the liver and the right kidney. Because it is a dependent area when a patient is supine, free fluid from abdominal trauma frequently pools here and is easily seen as a black (anechoic) stripe on ultrasound."
+    },
+	{
+        "id": 80,
+        "faculty": "Kelsey Gipe",
+        "session": "B3: (REQUIRED) Ethics - Conscientious Objection",
+        "question": "Conscientious objection allows a provider to refuse to perform specific interventions (like abortion). However, it is fundamentally unethical and strictly prohibited for a physician to use conscientious objection to refuse care based on:",
+        "options": [
+            "The patient's race, sexual orientation, or personal gender identity      ",
+            "The patient's inability to pay for the required medical intervention     ",
+            "The patient's history of non-compliance with previous treatment plans    ",
+            "The physician's personal lack of training in the requested procedures    "
+        ],
+        "correct_answer": "The patient's race, sexual orientation, or personal gender identity      ",
+        "explanation": "Conscientious objection applies strictly to the *procedure* itself, not the *patient*. Refusing to provide standard care to a patient based on their race, gender identity, or sexual orientation is considered discrimination and is unequivocally unethical."
+    },
+    {
+        "id": 81,
+        "faculty": "Kathryn Eckert",
+        "session": "B3: (REQUIRED) Growth and Puberty",
+        "question": "A pediatrician is evaluating a child for short stature. Which of the following is considered the most critical parameter in determining whether the patient's short stature is pathologic rather than a normal genetic variation?",
+        "options": [
+            "The continuous monitoring of linear growth velocity over several years",
+            "The absolute height measurement plotted on a standardized growth chart",
+            "The calculation of the mid-parental height using the parents' stature ",
+            "The assessment of bone age using a radiographic image of the left hand"
+        ],
+        "correct_answer": "The continuous monitoring of linear growth velocity over several years",
+        "explanation": "While absolute height and mid-parental height are important, an abnormal or severely blunted growth velocity (falling across percentiles) is the most sensitive indicator of an underlying pathological process."
+    },
+    {
+        "id": 82,
+        "faculty": "Kathryn Eckert",
+        "session": "B3: (REQUIRED) Growth and Puberty",
+        "question": "A 15-year-old phenotypic female presents with primary amenorrhea, short stature, and a webbed neck. She has no breast development. Which of the following conditions is the most likely cause of her delayed puberty?",
+        "options": [
+            "Turner syndrome (45,X0) causing delayed puberty and short stature     ",
+            "Constitutional delay of growth and puberty in a normally growing child",
+            "Klinefelter syndrome (47,XXY) resulting in tall stature and long limbs",
+            "Congenital adrenal hyperplasia leading to early pubic hair development"
+        ],
+        "correct_answer": "Turner syndrome (45,X0) causing delayed puberty and short stature     ",
+        "explanation": "Turner syndrome (45,X0) is a classic cause of primary amenorrhea and delayed puberty in females. It typically presents with short stature, streak ovaries (leading to a lack of estrogen), and physical stigmata like a webbed neck."
+    },
+    {
+        "id": 83,
+        "faculty": "Angela Dao, Victoria Novoa",
+        "session": "B3: (Required) Case: Patty Hairy",
+        "question": "A 25-year-old female with Polycystic Ovary Syndrome (PCOS) complains of oligomenorrhea. She is prescribed a combined oral contraceptive pill. This treatment is crucial to reduce her significantly elevated risk of developing:",
+        "options": [
+            "Endometrial cancer due to prolonged periods of unopposed estrogen     ",
+            "Ovarian cancer due to the continuous hyperstimulation of the follicles",
+            "Cervical cancer due to chronic inflammation of the squamocolumnar zone",
+            "Breast cancer resulting from inherently high systemic androgen levels "
+        ],
+        "correct_answer": "Endometrial cancer due to prolonged periods of unopposed estrogen     ",
+        "explanation": "Women with PCOS suffer from chronic anovulation. Without ovulation, no corpus luteum forms, meaning no progesterone is produced to stabilize the uterine lining. The resulting 'unopposed estrogen' drives continuous endometrial proliferation, greatly increasing the risk of endometrial hyperplasia and cancer."
+    },
+    {
+        "id": 84,
+        "faculty": "Angela Dao, Victoria Novoa",
+        "session": "B3: (Required) Case: Patty Hairy",
+        "question": "In a patient with suspected Abnormal Uterine Bleeding (AUB), the PALM-COEIN classification system is utilized. Which of the following categories represents a structural cause of AUB that can be visualized on imaging?",
+        "options": [
+            "Leiomyoma (uterine fibroids) found within the myometrial wall layers  ",
+            "Ovulatory dysfunction causing an irregular and unpredictable menstrual",
+            "Coagulopathy such as von Willebrand disease impairing normal clotting ",
+            "Iatrogenic causes resulting from the use of specific medical therapies"
+        ],
+        "correct_answer": "Leiomyoma (uterine fibroids) found within the myometrial wall layers  ",
+        "explanation": "In the PALM-COEIN mnemonic, PALM refers to structural causes that can be seen on imaging or biopsy (Polyp, Adenomyosis, Leiomyoma, Malignancy), whereas COEIN refers to non-structural causes."
+    },
+    {
+        "id": 85,
+        "faculty": "David Howard",
+        "session": "B3: ESP: Case Reports (Ronald Kraft)",
+        "question": "A 29-year-old male presents for infertility evaluation. He has bilateral gynecomastia and small, firm testes. Laboratory analysis reveals elevated FSH and LH, and low testosterone. The most likely chromosomal karyotype is:",
+        "options": [
+            "47, XXY (Klinefelter syndrome)                                        ",
+            "45, X0 (Turner syndrome)                                              ",
+            "47, XYY (Jacobs syndrome)                                             ",
+            "46, XY (Normal male karyotype)                                        "
+        ],
+        "correct_answer": "47, XXY (Klinefelter syndrome)                                        ",
+        "explanation": "Klinefelter syndrome is the most common chromosomal cause of male hypogonadism. The extra X chromosome leads to testicular dysgenesis, resulting in small firm testes, low testosterone, and elevated gonadotropins due to a lack of negative feedback."
+    },
+    {
+        "id": 86,
+        "faculty": "David Howard",
+        "session": "B3: ESP: Case Reports (Ronald Kraft)",
+        "question": "In a patient with Klinefelter syndrome, primary hypogonadism is driven by progressive fibrosis of the testicular tissue. Which specific structure is destroyed, leading to profoundly decreased inhibin levels and elevated FSH?",
+        "options": [
+            "Seminiferous tubules containing the Sertoli cells and developing sperm",
+            "Interstitial spaces containing the Leydig cells that produce androgens",
+            "Epididymis where the spermatozoa undergo their final maturation phases",
+            "Prostate gland responsible for secreting the majority of seminal fluid"
+        ],
+        "correct_answer": "Seminiferous tubules containing the Sertoli cells and developing sperm",
+        "explanation": "Klinefelter syndrome is characterized by the progressive hyalinization and fibrosis of the seminiferous tubules. This destroys the Sertoli cells (causing low inhibin and high FSH) and halts spermatogenesis (causing infertility)."
+    },
+    {
+        "id": 87,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys- Pregnancy and Placentation",
+        "question": "The syncytiotrophoblast begins secreting Human Chorionic Gonadotropin (hCG) shortly after implantation. What is the essential physiological role of hCG during the first trimester of pregnancy?",
+        "options": [
+            "It rescues the corpus luteum so it continues secreting progesterone   ",
+            "It directly stimulates the maternal endometrium to undergo deciduation",
+            "It completely suppresses the maternal cellular immune system responses",
+            "It promotes the rapid cellular division of the inner cell mass tissues"
+        ],
+        "correct_answer": "It rescues the corpus luteum so it continues secreting progesterone   ",
+        "explanation": "hCG acts analogously to LH. It signals the corpus luteum to survive and continue pumping out the progesterone necessary to maintain the uterine lining until the mature placenta can take over production at around 10 weeks."
+    },
+    {
+        "id": 88,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys- Pregnancy and Placentation",
+        "question": "A 32-year-old pregnant patient at 36 weeks gestation presents to the emergency department with abrupt, painful vaginal bleeding and a rigid, tender uterus. This clinical presentation is highly characteristic of:",
+        "options": [
+            "Abruptio placentae (premature separation of the placental structures) ",
+            "Placenta previa (placental attachment covering the internal cervical) ",
+            "Vasa previa (fetal blood vessels crossing directly over the cervical) ",
+            "Ectopic pregnancy (implantation of the embryo outside of the cavities)"
+        ],
+        "correct_answer": "Abruptio placentae (premature separation of the placental structures) ",
+        "explanation": "Abruptio placentae classically presents with abrupt, painful third-trimester bleeding and a hard, tender abdomen. In contrast, placenta previa classically presents with painless third-trimester bleeding."
+    },
+    {
+        "id": 89,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys- Pregnancy and Placentation",
+        "question": "During normal pregnancy, maternal metabolism adapts to ensure adequate fetal nutrition. In the second and third trimesters, which hormone promotes maternal insulin resistance to keep circulating blood glucose elevated for the fetus?",
+        "options": [
+            "Human placental lactogen (hPL) secreted directly by the trophoblast   ",
+            "Human chorionic gonadotropin (hCG) secreted by the syncytiotrophoblast",
+            "Oxytocin released from the posterior pituitary gland into the blood   ",
+            "Prolactin synthesized and released by the anterior pituitary chromophil"
+        ],
+        "correct_answer": "Human placental lactogen (hPL) secreted directly by the trophoblast   ",
+        "explanation": "Human placental lactogen (hPL), along with other placental hormones, drives maternal insulin resistance later in pregnancy. This ensures that less glucose is stored by the mother and more remains in the blood to cross the placenta to the growing fetus."
+    },
+    {
+        "id": 90,
+        "faculty": "Heather Burkin",
+        "session": "B3: Phys - Lactation",
+        "question": "Lactogenesis II (the onset of copious milk production) typically occurs 2-3 days postpartum. This process is actively triggered by the sudden, precipitous drop in which specific hormone following the delivery of the placenta?",
+        "options": [
+            "Progesterone secreted by the fetoplacental unit during the pregnancy  ",
+            "Prolactin continuously secreted by the maternal anterior pituitary    ",
+            "Oxytocin released from the posterior pituitary during uterine response",
+            "Human chorionic gonadotropin circulating from the syncytiotrophoblasts"
+        ],
+        "correct_answer": "Progesterone secreted by the fetoplacental unit during the pregnancy  ",
+        "explanation": "Throughout pregnancy, massive levels of placental progesterone inhibit prolactin's action on the breast tissue. When the placenta is delivered, progesterone levels crash, removing this block and allowing prolactin to stimulate milk synthesis."
+    },
+    {
+        "id": 91,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Phys-Fetal To Neonatal Physiology",
+        "question": "Immediately after birth, the neonate takes its first breath. The expansion of the lungs causes a massive drop in pulmonary vascular resistance. This physiological change directly leads to the functional closure of the:",
+        "options": [
+            "Foramen ovale due to massively increased pressure in the left atrium  ",
+            "Ductus arteriosus due to heavily decreased prostaglandin concentrations",
+            "Ductus venosus due to the physical clamping of the umbilical cord base",
+            "Umbilical arteries due to an immediate thermal shock from the ambient "
+        ],
+        "correct_answer": "Foramen ovale due to massively increased pressure in the left atrium  ",
+        "explanation": "With the first breath, pulmonary resistance falls, and blood rushes into the lungs and back into the left atrium. The sudden increase in left atrial pressure snaps the septum primum shut against the septum secundum, functionally closing the foramen ovale."
+    },
+    {
+        "id": 92,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Phys-Fetal To Neonatal Physiology",
+        "question": "Neonatal Respiratory Distress Syndrome (RDS) is common in premature infants. It is primarily caused by an insufficiency of pulmonary surfactant. Which specific cell type is responsible for synthesizing and secreting this surfactant?",
+        "options": [
+            "Type II alveolar epithelial cells located within the lung parenchyma  ",
+            "Type I alveolar epithelial cells lining the delicate respiratory walls",
+            "Alveolar macrophages migrating throughout the terminal airway passages",
+            "Goblet cells situated in the mucosal lining of the conducting bronchi "
+        ],
+        "correct_answer": "Type II alveolar epithelial cells located within the lung parenchyma  ",
+        "explanation": "Surfactant reduces surface tension in the alveoli, preventing them from collapsing during exhalation. It is produced by Type II pneumocytes. In premature infants, these cells have not yet produced enough surfactant, leading to RDS."
+    },
+    {
+        "id": 93,
+        "faculty": "Caroline Cobine",
+        "session": "B3: Phys-Fetal To Neonatal Physiology",
+        "question": "The APGAR score is used to rapidly assess a neonate's clinical status at 1 and 5 minutes after birth. Which of the following is NOT one of the five specific criteria evaluated in the standard APGAR scoring system?",
+        "options": [
+            "Pupillary light reflex response                                       ",
+            "Heart rate evaluation                                                 ",
+            "Respiratory effort assessment                                         ",
+            "Muscle tone and reflex irritability                                   "
+        ],
+        "correct_answer": "Pupillary light reflex response                                       ",
+        "explanation": "The APGAR score consists of Appearance (color), Pulse (heart rate), Grimace (reflex irritability), Activity (muscle tone), and Respiration (respiratory effort). Pupillary reflexes are not part of this initial scoring system."
+    },
+    {
+        "id": 94,
+        "faculty": "Karen Thiele",
+        "session": "B3: (REQUIRED) Clinical - Caring For Gender Diverse Patients",
+        "question": "In the context of providing competent, gender-affirming primary care, which of the following terms refers specifically to a patient's internal, deeply held sense of being male, female, a blend of both, or neither?",
+        "options": [
+            "Gender identity (the psychological sense of self and social belonging)",
+            "Sexual orientation (the pattern of romantic and emotional attractions)",
+            "Assigned sex at birth (the administrative designation made at delivery)",
+            "Gender expression (the outward presentation through clothing and style)"
+        ],
+        "correct_answer": "Gender identity (the psychological sense of self and social belonging)",
+        "explanation": "Gender identity is a person's internal sense of their own gender. This is distinct from their assigned sex at birth (based on anatomy), their sexual orientation (who they are attracted to), and their gender expression (how they present themselves)."
+    },
+    {
+        "id": 95,
+        "faculty": "Karen Thiele",
+        "session": "B3: (REQUIRED) Clinical - Caring For Gender Diverse Patients",
+        "question": "According to the World Professional Association for Transgender Health (WPATH) Standards of Care, gender-affirming medical treatments (such as hormone therapy) are broadly recognized within the medical community primarily as:",
+        "options": [
+            "Medically necessary interventions that significantly reduce suicidality",
+            "Elective cosmetic procedures strictly designed to alter physical looks",
+            "Experimental therapies lacking any substantial peer-reviewed evidence ",
+            "Psychiatric treatments aimed at permanently reversing gender dysphoria"
+        ],
+        "correct_answer": "Medically necessary interventions that significantly reduce suicidality",
+        "explanation": "Leading medical organizations recognize gender-affirming care as a medically necessary, life-saving intervention. Studies repeatedly show it significantly improves mental health outcomes and drastically lowers the high risk of suicidality in transgender patients."
+    },
+    {
+        "id": 96,
+        "faculty": "Lisa Calvo",
+        "session": "B3: Endocrine Review",
+        "question": "A 62-year-old female presents with constipation, generalized bone pain, and fatigue. Laboratory tests show a serum calcium of 12.3 mg/dL (high) and a phosphorus of 2.0 mg/dL (low). What is the next best diagnostic test?",
+        "options": [
+            "Measurement of intact Parathyroid Hormone (PTH) levels in the blood  ",
+            "Measurement of Thyroid-Stimulating Hormone (TSH) and free Thyroxine   ",
+            "Execution of a high-dose Dexamethasone suppression screening procedure",
+            "Administration of a Cosyntropin (ACTH) stimulation diagnostic protocol"
+        ],
+        "correct_answer": "Measurement of intact Parathyroid Hormone (PTH) levels in the blood  ",
+        "explanation": "High calcium ('stones, bones, groans') with low phosphate is highly suspicious for Primary Hyperparathyroidism. Measuring the PTH level is the direct next step; if it is inappropriately elevated, the diagnosis is confirmed."
+    },
+    {
+        "id": 97,
+        "faculty": "Lisa Calvo",
+        "session": "B3: Endocrine Review",
+        "question": "A 32-year-old female presents to the ED unresponsive. She gave birth two months ago, complicated by massive postpartum hemorrhage. She has been unable to breastfeed and is severely hypotensive. The most likely diagnosis is:",
+        "options": [
+            "Sheehan syndrome causing panhypopituitarism from ischemic necrosis    ",
+            "Addison's disease causing primary autoimmune adrenal cortex failures  ",
+            "Hashimoto's thyroiditis causing a profound myxedema coma presentation ",
+            "Conn's syndrome causing severe hyperaldosteronism and blood pressures "
+        ],
+        "correct_answer": "Sheehan syndrome causing panhypopituitarism from ischemic necrosis    ",
+        "explanation": "During pregnancy, the anterior pituitary enlarges significantly, making it highly vulnerable to ischemia. A massive postpartum hemorrhage can cause pituitary infarction (Sheehan syndrome), leading to a failure to lactate (loss of prolactin) and severe hypotension/fatigue (loss of ACTH and TSH)."
+    },
+	{
+        "id": 98,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Ecological Studies",
+        "question": "An epidemiological study finds a correlation between a country's average dietary fat intake and its national rate of breast cancer. Assuming that an individual's fat intake directly increases their personal risk of breast cancer based on this data is an example of:",
+        "options": [
+            "The ecological fallacy (applying group-level data to individual risk)    ",
+            "The Hawthorne effect (altering behavior due to being in an experiment)   ",
+            "Confounding by indication (skewing outcomes based on treatment needs)    ",
+            "Recall bias (patients inaccurately remembering their dietary histories)  "
+        ],
+        "correct_answer": "The ecological fallacy (applying group-level data to individual risk)    ",
+        "explanation": "The ecological fallacy occurs when statistical correlations discovered at a broad, population level (like an entire country) are improperly assumed to hold true for the specific individuals within that population."
+    },
+    {
+        "id": 99,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Ecological Studies",
+        "question": "A key characteristic that distinguishes an ecological study from all other observational epidemiological study designs is that the unit of measurement and analysis is exclusively:",
+        "options": [
+            "Populations or geographic groups, rather than individual human beings    ",
+            "Individual patients suffering from extremely rare, unique disease types  ",
+            "Healthy volunteers completely isolated within strictly controlled trials ",
+            "Retrospective patient charts drawn from a single large hospital system   "
+        ],
+        "correct_answer": "Populations or geographic groups, rather than individual human beings    ",
+        "explanation": "Ecological studies are unique because they do not look at individual-level data. They analyze aggregate data, looking at exposures and outcomes at the level of a group, city, or nation."
+    },
+    {
+        "id": 100,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Cross-Sectional Studies",
+        "question": "A cross-sectional study is essentially a \"snapshot\" of a population at a single point in time. Because it measures exposure and outcome simultaneously, what is its primary epidemiological limitation?",
+        "options": [
+            "It cannot definitively establish temporality to prove direct causation   ",
+            "It is highly vulnerable to the ecological fallacy and group-level data   ",
+            "It requires massive financial resources and decades of follow-up times   ",
+            "It completely ignores the overall prevalence of the disease in question  "
+        ],
+        "correct_answer": "It cannot definitively establish temporality to prove direct causation   ",
+        "explanation": "Because a cross-sectional study looks at exposure and outcome at the exact same moment, it is impossible to know which came first. Without establishing temporality, causation cannot be proven."
+    },
+    {
+        "id": 101,
+        "faculty": "John Westhoff",
+        "session": "B3: ESP: Cross-Sectional Studies",
+        "question": "Cross-sectional studies are excellent for assessing the burden of a disease within a population. Because they capture data at a single moment, they are uniquely designed to measure:",
+        "options": [
+            "The prevalence of a condition (the proportion of all existing cases)     ",
+            "The incidence of a condition (the rate of entirely new disease cases)    ",
+            "The hazard ratio of a condition (the risk of death over a given time)    ",
+            "The absolute risk reduction (the definitive drop in clinical events)     "
+        ],
+        "correct_answer": "The prevalence of a condition (the proportion of all existing cases)     ",
+        "explanation": "Cross-sectional studies measure prevalence—how common a condition is at that specific snapshot in time. They cannot measure incidence, which requires tracking new cases developing over a period of time."
+    }
+]  
